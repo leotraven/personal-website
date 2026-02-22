@@ -31,7 +31,7 @@ export const SOCIALS: Social[] = [
   },
   {
     name: "LinkedIn",
-    href: "https://www.linkedin.de/in/LeoTraven/",
+    href: "https://www.linkedin.com/in/leo-traven-98ba00248/",
     linkTitle: `${SITE.title} on LinkedIn`,
     icon: IconLinkedin,
   },
