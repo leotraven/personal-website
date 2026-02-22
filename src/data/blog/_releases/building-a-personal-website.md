@@ -4,8 +4,9 @@ title: Building a personal website
 slug: personal-website
 featured: false
 ogImage: ../../../assets/images/AstroPaper-v5.png
-# tags:
-#   - release
+tags:
+  - ai
+  - website
 description: "I built my own website. It was easier than expected."
 ---
 
@@ -21,6 +22,6 @@ The tool is cool, but I could not use the latest model.
 After letting it run for ~1h and occasionally giving feedback, I took a deeper look at @steipete's blog, I found out its code is open-source and the template is referenced (and open-source as well).
 
 Instead of using coding agents, I just used this.
-It's better to think first, and then let coding agents work for you.
+It's better to think first, and then let coding agents work for you (if needed).
 
-![AstroPaper v5](@/assets/images/AstroPaper-v5.png)
+<!-- ![AstroPaper v5](@/assets/images/AstroPaper-v5.png) -->
