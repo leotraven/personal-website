@@ -3,6 +3,6 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-Industrial Engineer | Software Developer | Hybrid Athlete
+Industrial Engineer building software. Sports enthusiast.
 
 <!-- ![Astro Paper](public/astropaper-og.jpg) -->

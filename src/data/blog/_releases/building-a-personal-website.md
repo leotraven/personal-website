@@ -1,7 +1,7 @@
 ---
-pubDatetime: 2025-03-08T08:18:19.693Z
+pubDatetime: 2026-02-22T08:18:19.693Z
 title: Building a personal website
-slug: astro-paper-v5
+slug: personal-website
 featured: false
 ogImage: ../../../assets/images/AstroPaper-v5.png
 # tags:
@@ -16,7 +16,7 @@ In his blog, he writes that he rarely reads code anymore, but rather outsources 
 So I was not surprised when hearing about safety issues with OpenClaw.
 At the same time, I was surprised by how far you can get using coding agents in CLI.
 
-Since I did not want to spends money and already had a Google AI Pro subscription, I tried Gemini CLI.
+Since I did not want to spend money and already had a Google AI Pro subscription, I tried Gemini CLI.
 The tool is cool, but I could not use the latest model.
 After letting it run for ~1h and occasionally giving feedback, I took a deeper look at @steipete's blog, I found out its code is open-source and the template is referenced (and open-source as well).
 
