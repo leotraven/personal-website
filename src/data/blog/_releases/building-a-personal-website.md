@@ -7,7 +7,7 @@ ogImage: ../../../assets/images/AstroPaper-v5.png
 tags:
   - ai
   - website
-description: "I built my own website. It was easier than expected."
+description: I built my own website. It was easier than expected.
 ---
 
 I recently found out that the creator of OpenClaw, an open-source platform for personal AI agents, is from Europe.
