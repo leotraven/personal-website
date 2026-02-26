@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-Industrial Engineer building software. Sports enthusiast.
+<!-- Industrial Engineer building software. Sports enthusiast. -->
 
 <!-- ![Astro Paper](public/astropaper-og.jpg) -->
 
@@ -13,7 +13,7 @@ title: "About"
 description: "Vienna ↔ London. iOS architect turned web developer. Open source everything. Conference speaker & writer on tech innovation."
 --- -->
 
-import NewsletterForm from '../components/NewsletterForm.astro';
+<!-- import NewsletterForm from '../components/NewsletterForm.astro'; -->
 
 <div class="flex flex-col md:flex-row gap-8 items-start">
   <div class="w-full md:w-auto md:flex-shrink-0 md:max-w-[281px]">
