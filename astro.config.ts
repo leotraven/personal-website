@@ -64,11 +64,13 @@ export default defineConfig({
     preserveScriptOrder: true,
     fonts: [
       {
-        name: "Google Sans Code",
+        name: "Lora",
+        // name: "JetBrains Mono",
         cssVariable: "--font-google-sans-code",
         provider: fontProviders.google(),
+        // fallbacks: ["serif"],
         fallbacks: ["monospace"],
-        weights: [300, 400, 500, 600, 700],
+        weights: [400, 500, 600, 700],
         styles: ["normal", "italic"],
       },
     ],
