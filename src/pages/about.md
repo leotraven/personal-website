@@ -17,7 +17,7 @@ description: "Vienna ↔ London. iOS architect turned web developer. Open source
 
 <div class="flex flex-col md:flex-row gap-8 items-start">
   <div class="w-full md:w-auto md:flex-shrink-0 md:max-w-[281px]">
-      <img src="/src/assets/images/picture-leo.jpg" alt="Leo on a hiking trip" class="w-full h-auto rounded-lg" />
+      <img src="/picture-leo.jpg" alt="Leo on a hiking trip" class="w-full h-auto rounded-lg" />
   </div>
   <div class="flex-1 min-w-0">
     <p>Industrial Engineer building software. Sports enthusiast.</p>
@@ -40,7 +40,7 @@ description: "Vienna ↔ London. iOS architect turned web developer. Open source
 
 <NewsletterForm />
 
-If you'd like to connect or have questions about my work, feel free to reach out through any of the links below.
+If you'd like to connect or have questions, feel free to reach out through any of the links below.
 
 
 <!-- <div class="not-prose">
