@@ -26,21 +26,46 @@ description: Why I think the next step change in AI is unpredictable.
 Nassim Taleb, a famous essayist and statistician, popularized the idea of the Black Swan.
 By this, he means unpredictable events with extreme impact.
 He argues that our lifes are mostly determined by Black Swans.
-While our lifes mostly change incrementally, Black Swans lead to step changes.
+While our lifes mostly change incrementally, Black Swans carry extreme impact and lead to step changes.
 They can be positive or negative.
 
+An example for a Black Swan is the transformer, which oftentimes lies at the basis of today's most powerful AI models.
+It represents a very special architecture that allows AI models to handle context very effectively by determining how important every part of the text is to every other part, regardless of their distance in the text.
+This mechanism is called self-attention and enables parts of text, also called Tokens, to attend to each other.
+If Token A attends to Token B, it means Token B is important to Token A.
+This means that Token A is paying lots of attention to Token B.
+It's called self-attention because the sequence of text is analyzing its own tokens to understand its own context.
+This allows an AI model to build an incredibly deep, nuanced understanding of a text.
 
+The transformer led to a stepwise increase of performance in AI models.
+Realizing the potential of this technology, investors provided massive amounts of capital, which triggered further research and progress.
+Unlike the development of the transformer, this progress is incremental.
 
-- our lifes are determined by black swan events (as nassim taleb, author of books the black swan and antifragile, puts it)
+Afterwards, Black Swans tend to seem predictable from the start.
+In fact, nothing in the past convincingly pointed to its occurrence.
+Since Black Swans lie outside the realm of regular expectations, they can not be forecasted reliably.
+
+Yet, some people were able to predict the 2007/2008 financial crisis.
+Since then, they predicted 8 of the last 2 recessions!
+
+<!-- - our lifes are determined by black swan events (as nassim taleb, author of books the black swan and antifragile, puts it)
 - otherwise, progress is mostly incremental
 - black swans can be positive or negative
 - they carry an extreme impact
 - example of black swan: transformer -> stepwise increase of performance of ai models -> massive amounts of capital -> further research and progress
 - nothing in the past convincingly points to its possibility -> lies outside the realm of regular expectations -> can not be forecasted reliably
 - after the event, human nature drives us to create reasonable explanations of why it was inevitable from the start
-- in fact, it was not
+- in fact, it was not -->
 
 ### Focus on building learning systems
+
+Instead of making decisions based on predictions, build systems that do not suffer, but profit from volatility.
+Those systems are able to adjust to the new circumstances and flourish in the new environment.
+There are multiple strategies that can be considered when using such systems.
+One of them is the barbell strategy, which suggests protecting much of a system's resources while using a small fraction of them for aggressive bets with a very high upside.
+
+
+
 - instead of making decisions based on predictions, build systems that do not suffer, but profit from volatility
 - use the barbell strategy: be extremely paranoid about 90% of your resources, use the other 10% of aggressive bets that have unlimited upside
 - structure your system about asymmetric bets -> strive for a minimal downside and and exponential upside when becoming lucky
