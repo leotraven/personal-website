@@ -19,7 +19,7 @@ description: Why I think the next step change in AI is unpredictable.
 - Our lifes are mostly influenced by unpredictable events, which are called Black Swans
 - Although people create stories of them having been clear from the start, they are not
 - Instead of looking at predictions, focus on the relation of upsides and downsides
-- You can profit from them by seeking optionality, which means seeking situations with limited downside and exponential upside
+- You can profit from uncertainty by seeking optionality, which means seeking situations with limited downside and exponential upside
 - Step changes in AI require further Black Swans, not tinkering with LLMs
 
 ### On the (un)importance of forecasts
