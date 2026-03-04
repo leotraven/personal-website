@@ -45,7 +45,7 @@ Afterwards, Black Swans tend to seem predictable from the start.
 In fact, nothing in the past convincingly pointed to its occurrence.
 Since Black Swans lie outside the realm of regular expectations, they can not be forecasted reliably.
 
-Yet, some people were able to predict the 2007/2008 financial crisis.
+Yet, some people were able to predict the 2007/08 financial crisis.
 Since then, they predicted 8 of the last 2 recessions!
 
 <!-- - our lifes are determined by black swan events (as nassim taleb, author of books the black swan and antifragile, puts it)
@@ -88,7 +88,7 @@ This avoids situations where people profit from short term success at the expens
 - make sure people bear the consequences of their mistakes, by aligning risk and reward
 - people will act much more responsibly if they are actually long term responsible, and not bailed out in bad times while receiving big bonuses in good times -->
 
-### Many performance indicators do not convey valuable information
+### Not all performance indicators convey valuable information
 Sometimes, badly chosen KPIs cover up fragility.
 This is especially dangerous when they implicitly assume that a system works linearly, while it actually does not.
 If 1.000€ get you 100 customers, 1.000.000€ most probably will not get you 100.000 customers.
