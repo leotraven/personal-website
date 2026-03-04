@@ -63,27 +63,50 @@ Instead of making decisions based on predictions, build systems that do not suff
 Those systems are able to adjust to the new circumstances and flourish in the new environment.
 There are multiple strategies that can be considered when using such systems.
 One of them is the barbell strategy, which suggests protecting much of a system's resources while using a small fraction of them for aggressive bets with a very high upside.
+By striving for situations with minimal downsides and exponential upsides, you can structure a system around asymmetric bets.
+Taleb calls these situations convex and concludes that convexity is the backbone of antifragility, which means that a system improves from uncertainty.
+Asymmetric bets can be paired with building intentional redundancy.
+A simple example for that is establishing multiple income streams, which not only reduce each other's importance, but can also scale exponentially with limited additional costs.
+Having low marginal costs, digital services typically fulfill this requirement.
+Additionally, fast and cheap tinkering tends to reduce potential downsides while leveraging the quick incorporation of feedback to enable big upsides.
 
-
-
-- instead of making decisions based on predictions, build systems that do not suffer, but profit from volatility
+<!-- - instead of making decisions based on predictions, build systems that do not suffer, but profit from volatility
 - use the barbell strategy: be extremely paranoid about 90% of your resources, use the other 10% of aggressive bets that have unlimited upside
-- structure your system about asymmetric bets -> strive for a minimal downside and and exponential upside when becoming lucky
+- structure your system around asymmetric bets -> strive for a minimal downside and and exponential upside when becoming lucky
 - example: go to a party -> your time investment is relatively small but you may find get to know interesting people
 - build intentional redundancy
 - this can be multiple streams of income or having cash reserves
-- use fast, cheap tinkering -> agile development with short feedback circuits
-- enforce skin in the game
-- make sure people bear the consequences of their mistakes, by aligning risk and reward
-- people will act much more responsibly if they are actually long term responsible, and not bailed out in bad times while receiving big bonuses in good times
+- use fast, cheap tinkering -> agile development with short feedback circuits -->
 
-### Many KPIs do not convey valuable information
-- be sensitive to statistical measures - what information do you actually get?
-- if the average room temperature of your flat over the last 10 hours was 20 degrees celcius, but the maximum value was 100 degrees and the minimum was -50 degrees, you might have a problem
+### Who pays for whose mistakes?
+
+Antifragile systems enforce what is oftentimes called "skin in the game".
+By aligning risk and reward, they make sure that people bear the consequences of their actions, especially in the long term.
+This avoids situations where people profit from short term success at the expense of future costs bourne by other people, leading to responsible decision making.
+
+<!-- - enforce skin in the game
+- make sure people bear the consequences of their mistakes, by aligning risk and reward
+- people will act much more responsibly if they are actually long term responsible, and not bailed out in bad times while receiving big bonuses in good times -->
+
+### Many performance indicators do not convey valuable information
+Sometimes, badly chosen KPIs cover up fragility.
+This is especially dangerous when they implicitly assume that a system works linearly, while it actually does not.
+If 1.000€ get you 100 customers, 1.000.000€ most probably will not get you 100.000 customers.
+Doubling the number of cars in the streets does not necessarily double travel time, but may lead to catastrophic delays.
+To prevent unacceptable scenarios, you might also want to take a look at the worst outcome possible and hedge it.
+
+<!-- - be sensitive to statistical measures - what information do you actually get?
+- if the average room temperature of your flat over the last 10 hours was 20 degrees celcius, but the maximum value was 100 degrees and the minimum was -50 degrees, you might have a problem -->
 
 ### The optimal long-term solution may be out of reach
-- caveats: it might take more time than you have for this strategy to pay off - in the meantime, other people may have great success until they are wiped out by the next black swan
-- example: relying on only one big enterprise resource planning provider like SAP leads to great long term risks, since this provider will be deeply integrated into the company, giving it enormous leverage - however, resolving this issue may lead to organizational pain for many years and the benefits of this may never be seen since the company can not see what is did not have to endure
+
+The longer the time horizon, the more powerful the described strategy becomes.
+Depending on the area you apply it to, it might take more time than you have for it to pay off.
+In the meantime, other people may have great success until they are wiped out by the next Black Swan.
+True success in an asymmetric world is not about outperforming the lucky in the short run, but about ensuring you are still standing when reality catches up with them.
+
+<!-- - caveats: it might take more time than you have for this strategy to pay off - in the meantime, other people may have great success until they are wiped out by the next black swan
+- example: relying on only one big enterprise resource planning provider like SAP leads to great long term risks, since this provider will be deeply integrated into the company, giving it enormous leverage - however, resolving this issue may lead to organizational pain for many years and the benefits of this may never be seen since the company can not see what is did not have to endure -->
 
 ### Further step changes in AI require further Black Swans
 - the next big step forward in AI requires another black swan
