@@ -1,7 +1,7 @@
 ---
 author: Leo Traven
-pubDatetime: 2026-02-25T18:22:00Z
-modDatetime: 2026-02-25T18:22:00Z
+pubDatetime: 2026-03-05T21:00:00Z
+modDatetime: 2026-03-05T21:00:00Z
 title: Black Swans and AI
 slug: black-swans-and-ai
 featured: false
@@ -109,11 +109,24 @@ True success in an asymmetric world is not about outperforming the lucky in the 
 - example: relying on only one big enterprise resource planning provider like SAP leads to great long term risks, since this provider will be deeply integrated into the company, giving it enormous leverage - however, resolving this issue may lead to organizational pain for many years and the benefits of this may never be seen since the company can not see what is did not have to endure -->
 
 ### Further step changes in AI require further Black Swans
-- the next big step forward in AI requires another black swan
+
+The next major step forward in AI can not be predicted.
+For example, Transformers alone do not suffice for producing fully autonomous, intelligent robots that do humanity's work.
+Apart from incremental improvements, we can not even be sure about the direction AI progress takes.
+The next step change may lead to different AI systems completely out of reach of today's imagination.
+It could happen in 1 year, in 10 years, or never.
+
+From a technical perspective, we are incredibly well positioned for another Black Swan.
+Huge amounts of capital allow extensive research, limiting technological downside while obtaining astronomical upsides.
+Even a financial correction will not hinder existing AI systems to become ever more powerful.
+It will just lead to resources being focused on increasing the performance of existing systems incrementally rather than exploring completely new realms of AI, as existing AI systems lead to greater revenue with much more certainty.
+Until the next Black Swan, we will be stuck with LLMs.
+
+<!-- - the next big step forward in AI requires another black swan
 - from the technical perspective, we are incredibly well positioned for this
 - huge amounts of capital allow extensive research, limiting technical downside while obtaining astronomical upside
 - even a financial correction will not hinder existing AI systems to become more powerful
 - It will just lead to resources being focused on increasing the performance of existing systems incrementally rather than exploring completely new realms of AI, as existing AI systems lead to greater revenue with much more certainty
-- Until the next black swan, we will be stuck tinkering around with LLMs
+- Until the next black swan, we will be stuck tinkering around with LLMs -->
 
 
