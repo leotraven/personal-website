@@ -1,7 +1,7 @@
 ---
 author: Leo Traven
-pubDatetime: 2026-03-05T21:00:00Z
-modDatetime: 2026-03-05T21:00:00Z
+pubDatetime: 2026-03-05T19:00:00Z
+modDatetime: 2026-03-05T19:00:00Z
 title: Black Swans and AI
 slug: black-swans-and-ai
 featured: false
