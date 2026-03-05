@@ -16,28 +16,28 @@ description: Why I think the next step change in AI is unpredictable.
 <!-- Situation -> Complication -> Question -> Answer -->
 
 ### TL;DR:
-- Our lives are mostly influenced by unpredictable events, which are called Black Swans
-- Although people create stories of them having been clear from the start, they are not
-- Instead of looking at predictions, focus on the relation of upsides and downsides
+- Our lives are mostly influenced by unpredictable events called Black Swans
+- Although people create stories that they were clear from the start, they were not
+- Instead of looking at predictions, focus on the balance of upsides and downsides
 - You can profit from uncertainty by seeking optionality, which means seeking situations with limited downside and exponential upside
 - Step changes in AI require further Black Swans, not tinkering with LLMs
 
 ### On the (un)importance of forecasts
 Nassim Taleb, a famous essayist and statistician, popularized the idea of the Black Swan.
-By this, he means unpredictable events with extreme impact.
+By this, he refers to unpredictable events with extreme impact.
 He argues that our lives are mostly determined by Black Swans.
-While our lives mostly change incrementally, Black Swans carry extreme impact and lead to step changes.
+While our lives mostly change incrementally, Black Swans have extreme impact and lead to step changes.
 They can be positive or negative.
 
-An example of a Black Swan is the transformer, which oftentimes lies at the basis of today's most powerful AI models.
+An example of a Black Swan is the transformer, which oftentimes forms the basis of today's most powerful AI models.
 It represents a very special architecture that allows AI models to handle context very effectively by determining how important every part of the text is to every other part, regardless of their distance in the text.
-This mechanism is called self-attention and enables parts of text, also called Tokens, to attend to each other.
+This mechanism is called self-attention and enables parts of a text, also called Tokens, to attend to each other.
 If Token A attends to Token B, it means Token B is important to Token A.
 This means that Token A is paying lots of attention to Token B.
 It's called self-attention because the sequence of text is analyzing its own tokens to understand its own context.
 This allows an AI model to build an incredibly deep, nuanced understanding of a text.
 
-The transformer led to a stepwise increase of performance in AI models.
+The transformer led to a stepwise increase in AI model performance.
 Realizing the potential of this technology, investors provided massive amounts of capital, which triggered further research and progress.
 Unlike the development of the transformer, this progress is incremental.
 
@@ -66,7 +66,7 @@ One of them is the barbell strategy, which suggests protecting much of a system'
 By striving for situations with minimal downsides and exponential upsides, you can structure a system around asymmetric bets.
 Taleb calls these situations convex and concludes that convexity is the backbone of antifragility, which means that a system improves from uncertainty.
 Asymmetric bets can be paired with building intentional redundancy.
-A simple example for that is establishing multiple income streams, which not only reduce each other's importance, but can also scale exponentially with limited additional costs.
+A simple example of that is establishing multiple income streams, which not only reduce each other's importance, but can also scale exponentially with limited additional costs.
 Having low marginal costs, digital services typically fulfill this requirement.
 Additionally, fast and cheap tinkering tends to reduce potential downsides while leveraging the quick incorporation of feedback to enable big upsides.
 
@@ -82,7 +82,7 @@ Additionally, fast and cheap tinkering tends to reduce potential downsides while
 
 Antifragile systems enforce what is oftentimes called "skin in the game".
 By aligning risk and reward, they make sure that people bear the consequences of their actions, especially in the long term.
-This avoids situations where people profit from short term success at the expense of future costs borne by other people, leading to responsible decision making.
+This avoids situations where people profit from short-term success at the expense of future costs borne by other people, leading to responsible decision-making.
 
 <!-- - enforce skin in the game
 - make sure people bear the consequences of their mistakes, by aligning risk and reward
@@ -118,7 +118,7 @@ It could happen in 1 year, in 10 years, or never.
 
 From a technical perspective, we are incredibly well positioned for another Black Swan.
 Huge amounts of capital allow extensive research, limiting technological downside while obtaining astronomical upsides.
-Even a financial correction will not hinder existing AI systems to become ever more powerful.
+Even a financial correction will not hinder existing AI systems from becoming ever more powerful.
 It will just lead to resources being focused on increasing the performance of existing systems incrementally rather than exploring completely new realms of AI, as existing AI systems lead to greater revenue with much more certainty.
 Until the next Black Swan, we will be stuck with LLMs.
 
