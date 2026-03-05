@@ -16,7 +16,7 @@ description: Why I think the next step change in AI is unpredictable.
 <!-- Situation -> Complication -> Question -> Answer -->
 
 ### TL;DR:
-- Our lifes are mostly influenced by unpredictable events, which are called Black Swans
+- Our lives are mostly influenced by unpredictable events, which are called Black Swans
 - Although people create stories of them having been clear from the start, they are not
 - Instead of looking at predictions, focus on the relation of upsides and downsides
 - You can profit from uncertainty by seeking optionality, which means seeking situations with limited downside and exponential upside
@@ -25,11 +25,11 @@ description: Why I think the next step change in AI is unpredictable.
 ### On the (un)importance of forecasts
 Nassim Taleb, a famous essayist and statistician, popularized the idea of the Black Swan.
 By this, he means unpredictable events with extreme impact.
-He argues that our lifes are mostly determined by Black Swans.
-While our lifes mostly change incrementally, Black Swans carry extreme impact and lead to step changes.
+He argues that our lives are mostly determined by Black Swans.
+While our lives mostly change incrementally, Black Swans carry extreme impact and lead to step changes.
 They can be positive or negative.
 
-An example for a Black Swan is the transformer, which oftentimes lies at the basis of today's most powerful AI models.
+An example of a Black Swan is the transformer, which oftentimes lies at the basis of today's most powerful AI models.
 It represents a very special architecture that allows AI models to handle context very effectively by determining how important every part of the text is to every other part, regardless of their distance in the text.
 This mechanism is called self-attention and enables parts of text, also called Tokens, to attend to each other.
 If Token A attends to Token B, it means Token B is important to Token A.
@@ -43,7 +43,7 @@ Unlike the development of the transformer, this progress is incremental.
 
 Afterwards, Black Swans tend to seem predictable from the start.
 In fact, nothing in the past convincingly pointed to its occurrence.
-Since Black Swans lie outside the realm of regular expectations, they can not be forecasted reliably.
+Since Black Swans lie outside the realm of regular expectations, they cannot be forecasted reliably.
 
 Yet, some people were able to predict the 2007/08 financial crisis.
 Since then, they predicted 8 of the last 2 recessions!
@@ -82,7 +82,7 @@ Additionally, fast and cheap tinkering tends to reduce potential downsides while
 
 Antifragile systems enforce what is oftentimes called "skin in the game".
 By aligning risk and reward, they make sure that people bear the consequences of their actions, especially in the long term.
-This avoids situations where people profit from short term success at the expense of future costs bourne by other people, leading to responsible decision making.
+This avoids situations where people profit from short term success at the expense of future costs borne by other people, leading to responsible decision making.
 
 <!-- - enforce skin in the game
 - make sure people bear the consequences of their mistakes, by aligning risk and reward
@@ -110,9 +110,9 @@ True success in an asymmetric world is not about outperforming the lucky in the 
 
 ### Further step changes in AI require further Black Swans
 
-The next major step forward in AI can not be predicted.
+The next major step forward in AI cannot be predicted.
 For example, Transformers alone do not suffice for producing fully autonomous, intelligent robots that do humanity's work.
-Apart from incremental improvements, we can not even be sure about the direction AI progress takes.
+Apart from incremental improvements, we cannot even be sure about the direction AI progress takes.
 The next step change may lead to different AI systems completely out of reach of today's imagination.
 It could happen in 1 year, in 10 years, or never.
 
