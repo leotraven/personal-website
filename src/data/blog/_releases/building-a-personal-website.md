@@ -40,8 +40,8 @@ Gleichzeitig fand ich es spannend, wie weit man mit Coding-Agenten in der Komman
 
 Da ich kein Geld ausgeben wollte und ohnehin schon ein Google AI Pro Abo hatte, probierte ich daraufhin Gemini CLI aus.
 Das Tool ist cool, aber ich konnte nicht das neueste KI-Modell nutzen.
-Nachdem ich es etwa eine Stunde laufen lassen und zwischendurch gelegentlich Feedback gegeben hatte, sah ich mir den Blog von @steipete genauer an.
+Nachdem ich es etwa eine Stunde laufen lassen und zwischendurch gelegentlich Feedback gegeben hatte, sah ich mir den Blog des Open Claw Gründers @steipete genauer an.
 So fand ich heraus, dass der Code öffentlich ist, und dass die Vorlage referenziert (und ebenfalls öffentlich) ist.
 
 Statt Coding-Agenten zu verwenden, habe ich einfach die Vorlage genommen.
-Auch beim Einsatz von Coding-Agenten sollte man sein Gehirn einschalten.
+Besonders angesichts der Vielzahl an Entwicklungsoptionen heute lohnt es sich, direkt zu Anfang genau hinzuschauen.
