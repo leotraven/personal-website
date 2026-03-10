@@ -10,7 +10,7 @@ tags:
 description: I built my own website. It was easier than expected.
 ---
 
-Quick reference: [Deutsch](#deutsche-version)
+[Deutsche Version](#wie-man-eine-eigene-website-baut)
 
 I recently found out that the creator of OpenClaw, an open-source platform for personal AI agents, is from Europe.
 When I found his blog, I really liked it, so I decided to create my own one.
@@ -29,7 +29,7 @@ It's better to think first, and then let coding agents work for you (if needed).
 
 <!-- ![AstroPaper v5](@/assets/images/AstroPaper-v5.png) -->
 
-## Deutsche Version
+## Wie man eine eigene Website baut
 
 Vor Kurzem fand ich heraus, dass der Erfinder von OpenClaw, einer Open-Source-Plattform für personalisierte KI-Agenten, aus Europa kommt.
 Sein Blog gefiel mir so gut, dass ich beschloss, ihn als Vorlage für meinen eigenen zu nehmen.
