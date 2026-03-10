@@ -15,6 +15,8 @@ description: Why I think the next step change in AI is unpredictable.
 
 <!-- Situation -> Complication -> Question -> Answer -->
 
+Quick reference: [Deutsch](#deutsche-version)
+
 ### TL;DR:
 - Our lives are mostly influenced by unpredictable events called Black Swans
 - Although people create stories that they were clear from the start, they were not
@@ -128,5 +130,87 @@ Until the next Black Swan, we will be stuck with LLMs.
 - even a financial correction will not hinder existing AI systems to become more powerful
 - It will just lead to resources being focused on increasing the performance of existing systems incrementally rather than exploring completely new realms of AI, as existing AI systems lead to greater revenue with much more certainty
 - Until the next black swan, we will be stuck tinkering around with LLMs -->
+
+## Deutsche Version
+
+### TL;DR:
+- Unser Leben wird größtenteils von unvorhersehbaren Ereignissen beeinflusst, den sogenannten Black Swans
+- Obwohl Menschen im Nachhinein Geschichten erzählen, dass alles von Anfang an klar war, war es das nicht
+- Statt auf Vorhersagen zu schauen, solltest du dich auf die Balance von Upsides und Downsides konzentrieren
+- Du kannst von Unsicherheit profitieren, indem du Optionalität suchst, also Situationen mit begrenztem Downside und exponentiellem Upside
+- Schrittveränderungen in AI brauchen weitere Black Swans, nicht nur Tinkering an LLMs
+
+### Über die (Un)wichtigkeit von Prognosen
+Nassim Taleb, ein bekannter Essayist und Statistiker, hat die Idee des Black Swan popularisiert.
+Damit meint er unvorhersehbare Ereignisse mit extremer Wirkung.
+Er argumentiert, dass unser Leben größtenteils von Black Swans bestimmt wird.
+Während sich unser Leben meistens inkrementell verändert, haben Black Swans extreme Auswirkungen und führen zu Sprungveränderungen.
+Sie können positiv oder negativ sein.
+
+Ein Beispiel für einen Black Swan ist der Transformer, der heute oft die Basis der leistungsstärksten AI-Modelle bildet.
+Er stellt eine sehr besondere Architektur dar, die es AI-Modellen erlaubt, Kontext sehr effektiv zu verarbeiten, indem bestimmt wird, wie wichtig jeder Teil des Textes für jeden anderen Teil ist, unabhängig von ihrer Entfernung im Text.
+Dieser Mechanismus heißt Self-Attention und ermöglicht es Teilen eines Textes, auch Tokens genannt, einander Aufmerksamkeit zu schenken.
+Wenn Token A Token B Aufmerksamkeit schenkt, bedeutet das, dass Token B für Token A wichtig ist.
+Das heißt, dass Token A Token B sehr viel Aufmerksamkeit gibt.
+Es heißt Self-Attention, weil die Textsequenz ihre eigenen Tokens analysiert, um ihren eigenen Kontext zu verstehen.
+Das erlaubt einem AI-Modell, ein unglaublich tiefes, nuanciertes Verständnis eines Textes aufzubauen.
+
+Der Transformer führte zu einem sprunghaften Anstieg der Leistungsfähigkeit von AI-Modellen.
+Als Investoren das Potenzial dieser Technologie erkannten, stellten sie massive Mengen an Kapital bereit, was weitere Forschung und Fortschritt auslöste.
+Anders als die Entwicklung des Transformers ist dieser Fortschritt inkrementell.
+
+Im Nachhinein wirken Black Swans oft so, als wären sie von Anfang an vorhersehbar gewesen.
+Tatsächlich hat in der Vergangenheit nichts überzeugend auf ihr Auftreten hingedeutet.
+Da Black Swans außerhalb des Bereichs regulärer Erwartungen liegen, lassen sie sich nicht verlässlich prognostizieren.
+
+Und doch konnten einige Menschen die Finanzkrise 2007/08 vorhersagen.
+Seitdem haben sie 8 der letzten 2 Rezessionen vorhergesagt!
+
+### Fokus auf den Aufbau lernender Systeme
+
+Statt Entscheidungen auf Basis von Vorhersagen zu treffen, baue Systeme, die nicht unter Volatilität leiden, sondern von ihr profitieren.
+Diese Systeme können sich an neue Umstände anpassen und im neuen Umfeld aufblühen.
+Es gibt mehrere Strategien, die du dabei in Betracht ziehen kannst.
+Eine davon ist die Barbell-Strategie, die vorschlägt, den Großteil der Ressourcen eines Systems zu schützen und einen kleinen Anteil für aggressive Wetten mit sehr hohem Upside zu nutzen.
+Wenn du Situationen mit minimalem Downside und exponentiellem Upside anstrebst, kannst du ein System um asymmetrische Wetten herum strukturieren.
+Taleb nennt solche Situationen convex und schließt daraus, dass Convexity das Rückgrat von Antifragility ist, also davon, dass ein System durch Unsicherheit besser wird.
+Asymmetrische Wetten lassen sich mit dem Aufbau intentionaler Redundanz kombinieren.
+Ein einfaches Beispiel dafür ist das Etablieren mehrerer Einkommensströme, die nicht nur die Bedeutung der jeweils anderen reduzieren, sondern mit begrenzten zusätzlichen Kosten auch exponentiell skalieren können.
+Digitale Services erfüllen diese Anforderung typischerweise, da sie geringe Grenzkosten haben.
+Zusätzlich reduziert schnelles und günstiges Tinkering potenzielle Downsides und nutzt die schnelle Einbindung von Feedback, um große Upsides zu ermöglichen.
+
+### Wer bezahlt für wessen Fehler?
+
+Antifragile Systeme erzwingen das, was oft als "skin in the game" bezeichnet wird.
+Indem sie Risiko und Belohnung ausrichten, stellen sie sicher, dass Menschen die Konsequenzen ihrer Handlungen tragen, insbesondere langfristig.
+Das vermeidet Situationen, in denen Menschen von kurzfristigem Erfolg profitieren, während die späteren Kosten von anderen getragen werden, und führt zu verantwortungsvolleren Entscheidungen.
+
+### Nicht alle Performance-Indikatoren vermitteln wertvolle Informationen
+Manchmal verdecken schlecht gewählte KPIs Fragilität.
+Das ist besonders gefährlich, wenn sie implizit davon ausgehen, dass ein System linear funktioniert, obwohl es das nicht tut.
+Wenn 1.000 EUR dir 100 Kunden bringen, bringen 1.000.000 EUR dir sehr wahrscheinlich keine 100.000 Kunden.
+Die Anzahl der Autos auf den Straßen zu verdoppeln verdoppelt nicht zwingend die Reisezeit, sondern kann zu katastrophalen Verzögerungen führen.
+Um inakzeptable Szenarien zu verhindern, solltest du dir auch den schlimmsten möglichen Ausgang anschauen und ihn absichern.
+
+### Die optimale langfristige Lösung kann außerhalb der Reichweite sein
+
+Je länger der Zeithorizont ist, desto kraftvoller wird die beschriebene Strategie.
+Abhängig vom Bereich, in dem du sie anwendest, kann es länger dauern, als du hast, bis sie sich auszahlt.
+In der Zwischenzeit können andere große Erfolge haben, bis sie vom nächsten Black Swan ausgelöscht werden.
+Echter Erfolg in einer asymmetrischen Welt bedeutet nicht, die Glücklichen kurzfristig zu übertreffen, sondern sicherzustellen, dass du noch stehst, wenn die Realität sie einholt.
+
+### Weitere Sprungveränderungen in AI brauchen weitere Black Swans
+
+Der nächste große Sprung nach vorne in AI ist nicht vorhersehbar.
+Transformers allein reichen zum Beispiel nicht aus, um vollautonome, intelligente Roboter zu bauen, die die Arbeit der Menschheit erledigen.
+Abgesehen von inkrementellen Verbesserungen können wir nicht einmal sicher sein, in welche Richtung sich AI-Fortschritt entwickelt.
+Die nächste Sprungveränderung kann zu völlig anderen AI-Systemen führen, die außerhalb der Reichweite heutiger Vorstellung liegen.
+Sie kann in einem Jahr passieren, in zehn Jahren oder nie.
+
+Aus technischer Perspektive sind wir für einen weiteren Black Swan unglaublich gut aufgestellt.
+Enorme Mengen an Kapital ermöglichen umfangreiche Forschung, begrenzen technologischen Downside und erschließen astronomische Upsides.
+Selbst eine finanzielle Korrektur wird bestehende AI-Systeme nicht davon abhalten, immer leistungsfähiger zu werden.
+Sie wird nur dazu führen, dass Ressourcen eher auf die inkrementelle Leistungssteigerung bestehender Systeme fokussiert werden, statt vollkommen neue AI-Reiche zu erforschen, weil bestehende AI-Systeme mit deutlich mehr Sicherheit zu höherem Umsatz führen.
+Bis zum nächsten Black Swan bleiben wir bei LLMs.
 
 
