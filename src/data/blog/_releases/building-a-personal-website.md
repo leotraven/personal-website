@@ -31,17 +31,17 @@ It's better to think first, and then let coding agents work for you (if needed).
 
 ## Deutsche Version
 
-Vor Kurzem fand ich heraus, dass der Ersteller von OpenClaw, einer Open-Source-Plattform für persönliche AI-Agenten, aus Europa kommt.
-Als ich seinen Blog gefunden habe, gefiel er mir so gut, dass ich beschloss, meinen eigenen zu bauen.
+Vor Kurzem fand ich heraus, dass der Erfinder von OpenClaw, einer Open-Source-Plattform für personalisierte KI-Agenten, aus Europa kommt.
+Sein Blog gefiel mir so gut, dass ich beschloss, ihn als Vorlage für meinen eigenen zu nehmen.
 
-In seinem Blog schreibt er, dass er kaum noch Code liest, sondern Programmieren stattdessen an Claude Code und Codex auslagert.
-Deshalb war ich nicht überrascht, als ich von Sicherheitsproblemen bei OpenClaw gehört habe.
-Gleichzeitig war ich fasziniert davon, wie weit man mit Coding-Agenten in der CLI kommen kann.
+Er schreibt, dass er kaum noch Code liest, sondern Programmieren stattdessen an Claude Code und Codex delegiert.
+Deshalb war ich wenig überrascht, als ich von Sicherheitsproblemen bei OpenClaw hörte.
+Gleichzeitig fand ich es spannend, wie weit man mit Coding-Agenten in der Kommandozeile kommen kann.
 
-Da ich kein Geld ausgeben wollte und ohnehin schon ein Google AI Pro Abo hatte, habe ich Gemini CLI ausprobiert.
-Das Tool ist cool, aber ich konnte nicht das neueste Modell nutzen.
-Nachdem ich es etwa eine Stunde habe laufen lassen und zwischendurch gelegentlich Feedback gegeben habe, habe ich mir den Blog von @steipete genauer angesehen.
-Ich habe herausgefunden, dass der Code Open Source ist, und dass die Vorlage referenziert ist (und ebenfalls Open Source ist).
+Da ich kein Geld ausgeben wollte und ohnehin schon ein Google AI Pro Abo hatte, probierte ich daraufhin Gemini CLI aus.
+Das Tool ist cool, aber ich konnte nicht das neueste KI-Modell nutzen.
+Nachdem ich es etwa eine Stunde laufen lassen und zwischendurch gelegentlich Feedback gegeben hatte, sah ich mir den Blog von @steipete genauer an.
+So fand ich heraus, dass der Code öffentlich ist, und dass die Vorlage referenziert (und ebenfalls öffentlich) ist.
 
-Statt Coding-Agenten zu verwenden, habe ich einfach das genommen.
-Besser ist es, zuerst zu denken und dann (falls nötig) Coding-Agenten für sich arbeiten zu lassen.
+Statt Coding-Agenten zu verwenden, habe ich einfach die Vorlage genommen.
+Auch beim Einsatz von Coding-Agenten sollte man sein Gehirn einschalten.
