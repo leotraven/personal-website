@@ -32,32 +32,6 @@ description:
 
 ### From data to energy
 
-Layer 1: Data, Context & Orchestration (The "Memory & Hands")
-What it is: The application layer containing your proprietary data (Vector Databases), Retrieval-Augmented Generation (RAG) pipelines, and Agentic frameworks.
-
-Why it matters: An AI model is generic until it reads your data. This is the only layer where direct business value is created, transforming a general-purpose chatbot into an autonomous agent that can execute specific workflows for your company.
-
-Layer 2: MLOps & Platform (The "Engine Room")
-What it is: The underlying software infrastructure (like Kubernetes, CUDA, and Microsoft Azure AI) that manages the models, routes user requests, and monitors for errors or "hallucinations."
-
-Why it matters: It turns raw compute power into a stable, reliable software service. This layer ensures the AI doesn't crash under enterprise-level demand and meets compliance standards.
-
-Layer 3: Silicon & Hardware (The "Muscle")
-What it is: The specialized microchips (Nvidia GPUs, Google TPUs) and high-speed optical networking cables that actually process the massive AI calculations in parallel.
-
-Why it matters: This is the core engine of the hyperscalers' moat. Access to these expensive, highly sought-after chips defines who can train and run the most advanced models cost-effectively.
-
-Layer 4: Physical Infrastructure & Facilities (The "Bedrock")
-What it is: The real estate, concrete, and advanced cooling systems (like direct-to-chip liquid cooling) required to house AI supercomputers.
-
-Why it matters: Standard legacy data centers would melt under the heat of AI chips. This layer represents the massive, multi-year construction investments required to physically keep the hardware running safely.
-
-Layer 5: Macro Power Generation & Grid (The "Fuel")
-What it is: The heavy industrial infrastructure that generates and delivers raw electricity (gas turbines, nuclear SMRs, high-voltage transformers, grid connections).
-
-Why it matters: You cannot run AI without gigawatts of power. This layer dictates the absolute physical speed limit of the AI boom, making legacy industrial companies (like Siemens Energy or GE Vernova) critical players in the digital economy.
-
-
 
 Data <-> Platform <-> Silicon <-> Facilities <-> Energy
 
