@@ -31,6 +31,7 @@ description: How AI value creation spans from models down to data, platforms, ch
 - Their investments cause a ripple effect that matters to the whole economy
 
 ### From data to energy
+Optimize this
 
 ```text
    AI
@@ -46,11 +47,15 @@ Facilities
  Energy
 ```
 
+### Data
+
 At the AI level, you have frontier models training the latest AI models.
 Those models are trained using data on the scale of the entire internet.
 Being relatively generic after training, companies need to provide the AI models with context to create actually business value when using them, making data the first layer below the AI models trained by frontier labs.
 Extensive knowledge databases need to be created, giving companies the opportunity to retrieve context relevant for a request.
 In enterprise systems, companies like Databricks and Snowflake provide platforms for this.
+
+### Platform
 
 AI models deployed at scale need to be managed by an underlying software infrastructure that e.g. routes user requests to different models and monitors for errors.
 These platforms ensure AI does not crash under high demands, while meeting highest security standards.
@@ -61,6 +66,8 @@ Many companies chose them because this way, they do not have to build data cente
 Additionally, the pay-per-use model is highly attractive as it gives companies the options to start and stop cloud services as they like in no time.
 In case of a deleted service, the underlying infrastructure is used for other purposes.
 
+### Silicon
+
 AI models basically work on matrix multiplication.
 They operate on highly specialized microchips that enable parallel processing.
 Access to these highly demanded and therefore very expensive chips defines who can train and run the most advances AI models.
@@ -68,6 +75,8 @@ Equipped with huge cashflows, hyperscalers buy chips from e.g. Nvidia or AMD.
 As Nvidia only designs chips, they are usually built by TSMC, a taiwanese company that heavily relies on lithographic machines from ASML, a company from the netherlands.
 At the heart of ASML's lithography machines lie laser systems manufactured by Trumpf and highly specialized mirrors manufactured by Zeiss.
 Both are private engineering companies from Germany!
+
+### Facilities
 
 The AI supercomputers used by the big cloud providers need to be housed somewhere.
 They require huge data centers equipped with advanced cooling systems.
@@ -77,20 +86,14 @@ Those buildings need to be built.
 In this space, Equinix and Digital Realty are the major data center developers.
 They buy the land, secure the power permits and design the architecture.
 
+### Energy
+
 Meta currently plans to build Hyperion, a data center for which they bought an area of roughly 14.8 km^2.
 The area will host not only data center buildings, but also cooling systems, power infrastructure, security buffer zones and more.
 Hyperion will draw up to 5 GW, the equivalent of roughly 3 million homes in that region.
 In January 2026, Meta signed a nuclear power procurement deal.
 Additionally, the facility will host three natural gas turbines and Meta has committed to adding 1.5 GW of new solar and wind energy to the region.
 Winners in this space are Siemens Energy and GE Vernova who provide gas turbines and grid infrastructure.
-
-
-
-
-Used by hundreds of millions of users and a possibly infinite amount of AI agents, the quality of models heavily depends on having the best researchers combined with a huge amount of compute.
-
-
-
 
 
 
