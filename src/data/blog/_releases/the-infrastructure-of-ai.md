@@ -21,7 +21,7 @@ description: How AI value creation spans from models down to data, platforms, ch
 - If one wants to build scalable AI systems, mastering its infrastructure is a prerequisite
 - The infrastructure is what makes AI so interesting for the whole economy, not just software companies
 
-### Deploying AI is more than building great models
+### Building out AI is more than building great models
 
 - There is a reason for why AI has been able to push major capital markets indices to all time highs over the last couple of years
 - It's economic impact can be divided into two areas: the buildout and the payoff
