@@ -3,7 +3,7 @@ author: Leo Traven
 pubDatetime: 2026-03-10T19:00:00Z
 modDatetime: 2026-03-10T19:00:00Z
 title: The infrastructure of AI
-slug: layers-of-ai
+slug: infrastructure-of-ai
 featured: false
 draft: false
 tags:
@@ -29,6 +29,9 @@ description: How AI value creation spans from models down to data, platforms, ch
 - While frontier models mostly come from AI labs, those labs are mostly financed by MAG7 companies
 - After using their cashflow in the beginning, especially MAG7 began financing this buildout by taking on debt
 - Their investments cause a ripple effect that matters to the whole economy
+
+Make this a text
+
 
 ### From data to energy
 Optimize this
