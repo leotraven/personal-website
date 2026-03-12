@@ -10,7 +10,7 @@ tags:
   - ai
   - layers
   - infrastructure
-description: 
+description: How AI value creation spans from models down to data, platforms, chips, facilities, and energy.
 ---
 
 <!-- Situation -> Complication -> Question -> Answer -->
