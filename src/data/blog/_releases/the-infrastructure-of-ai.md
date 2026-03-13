@@ -1,7 +1,7 @@
 ---
 author: Leo Traven
-pubDatetime: 2026-03-13T18:00:00Z
-modDatetime: 2026-03-13T18:00:00Z
+pubDatetime: 2026-03-16:00:00Z
+modDatetime: 2026-03-16T18:00:00Z
 title: The infrastructure of AI
 slug: infrastructure-of-ai
 featured: false
@@ -11,6 +11,7 @@ tags:
   - layers
   - infrastructure
   - data centers
+  - mag7
 description: How AI value creation spans from models down to data, platforms, chips, facilities, and energy.
 ---
 
@@ -104,7 +105,7 @@ Winners in this space are Siemens Energy and GE Vernova who provide gas turbines
 
 ### The MAG7: The Magnificent Seven
 
-The **Magnificent 7** (MAG7) are the dominant technology companies driving AI investment and infrastructure buildout:
+The **Magnificent 7** (MAG7) are the dominant technology companies driving AI investment and infrastructure buildout.
 
 | Company | Focus |
 |---------|-------|
@@ -141,6 +142,6 @@ From a future perspective, a crisis because of AI companies currently overplayin
 Nevertheless, we never know for sure when the next crisis will be and what will be its cause.
 I can only assure you that there will be crises in the future.
 
-As we might currently be in a financial bubble, we are definitely not in a technological bubble.
+While we might currently be in a financial bubble, we are definitely not in a technological bubble.
 AI is here to stay, and an economic downturn will only strengthen the capital markets in the long term by weeding out companies unable to weather the storm.
 Even after a financial crisis, AI will still be THE driver for productivity, efficiency and prosperity by enabling novel research methods, personalized education, advanced healthcare and much more.
