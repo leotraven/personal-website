@@ -1,7 +1,7 @@
 ---
 author: Leo Traven
-pubDatetime: 2026-03-10T19:00:00Z
-modDatetime: 2026-03-10T19:00:00Z
+pubDatetime: 2026-03-13T18:00:00Z
+modDatetime: 2026-03-13T18:00:00Z
 title: The infrastructure of AI
 slug: infrastructure-of-ai
 featured: false
@@ -29,7 +29,7 @@ description: How AI value creation spans from models down to data, platforms, ch
 There is a reason why AI has been able to push major capital markets indices to all-time highs over the last couple of years.
 Its economic impact can be divided into two areas: the buildout and the payoff.
 Anticipating major opportunities for selling AI solutions in the future, companies have been investing unimaginable amounts of capital into the buildout.
-While frontier models mostly come from AI labs, those labs are mostly financed by MAG7 companies.
+While frontier models mostly come from AI labs, those labs are mostly financed by [MAG7](#the-mag7-the-magnificent-seven) companies.
 After using their cashflows in the beginning, companies began financing this buildout by taking on debt.
 Their investments cause ripple effects that matters to the whole economy.
 
@@ -102,6 +102,21 @@ In January 2026, Meta signed a deal to secure over 6.6 GW of nuclear power for t
 The Hyperion facility will host three natural gas turbines and Meta has committed to adding 1.5 GW of new solar and wind energy to the region.
 Winners in this space are Siemens Energy and GE Vernova who provide gas turbines and grid infrastructure.
 
+### The MAG7: The Magnificent Seven
+
+The **Magnificent 7** (MAG7) are the dominant technology companies driving AI investment and infrastructure buildout:
+
+| Company | Focus |
+|---------|-------|
+| **M**icrosoft | Cloud (Azure), OpenAI partnership |
+| **A**mazon | Cloud (AWS), AI services |
+| **G**oogle (Alphabet) | Cloud (GCP), AI models, chips |
+| **A**pple | On-device AI, consumer hardware |
+| **M**eta | AI models, data centers, infrastructure |
+| **N**vidia | GPU chips, AI accelerators |
+| **T**esla | AI for autonomous systems |
+
+These seven companies control the majority of AI development, compute resources, and infrastructure investment globally.
 
 ### Let's see where this takes us
 
