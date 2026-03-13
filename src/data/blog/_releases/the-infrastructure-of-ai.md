@@ -1,7 +1,7 @@
 ---
 author: Leo Traven
-pubDatetime: 2026-03-16T16:00:00Z
-modDatetime: 2026-03-16T16:00:00Z
+pubDatetime: 2026-03-13T16:00:00Z
+modDatetime: 2026-03-13T16:00:00Z
 title: The infrastructure of AI
 slug: infrastructure-of-ai
 featured: false
