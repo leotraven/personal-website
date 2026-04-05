@@ -32,7 +32,7 @@ Its economic impact can be divided into two areas: the buildout and the payoff.
 Anticipating major opportunities for selling AI solutions in the future, companies have been investing unimaginable amounts of capital into the buildout.
 While frontier models mostly come from AI labs, those labs are mostly financed by [MAG7](#the-mag7-the-magnificent-seven) companies.
 After using their cashflows in the beginning, companies began financing this buildout by taking on debt.
-Their investments cause ripple effects that matters to the whole economy.
+Their investments cause ripple effects that matter to the whole economy.
 
 > **AI**
 >> **Data**
@@ -43,15 +43,15 @@ Their investments cause ripple effects that matters to the whole economy.
 
 #### AI
 
-At the AI level, you have frontier models training the latest AI models.
+At the AI level, you have frontier labs training the latest AI models.
 Those models are trained using data on the scale of the entire internet.
 The most famous AI labs are OpenAI and Anthropic.
 To build their AI models, they need three things: data, compute and the best AI researchers available.
 The AI labs are mostly financed by companies from the data, platform and silicon layer.
 This enables them to purchase products and services from exactly those companies.
-As the data, platform and silicon companies typically trade at a very high multiple of their revenue, they use this as a means to push their capital markets valuations.
+As the data, platform and silicon companies typically trade at a very high multiple of their revenue, they use this as a means to push their own capital markets valuations.
 This gives them better access to capital, decreasing their capital costs.
-Also, AI models will have to be deployed somewhere.
+Also, AI models have to be deployed somewhere.
 As MAG7 companies are the only ones that can serve the global demands for AI, they know that AI models will eventually be deployed in their clouds, whose services they can sell at high margins.
 
 #### Data
@@ -65,18 +65,18 @@ In enterprise systems, companies like Databricks and Snowflake provide platforms
 
 AI models deployed at scale need to be managed by an underlying software infrastructure that routes user requests to different models and monitors for errors.
 These platforms ensure AI does not crash under heavy loads while meeting the highest security standards.
-They can be built using orchestration software like Kubernetes, which is able to balance loads efficiently and scale model deployments depending on current demand.
-Winners in this space are the cloud hyperscalers (namely Amazon, Microsoft, and Google), which provide these infrastructure platforms on a highly scalable pay-per-use basis.
+They can be built using orchestration software like Kubernetes, which is able to balance loads efficiently and scale model deployments depending on demand.
+Winners in this space are the cloud hyperscalers (Amazon, Microsoft, and Google), which provide these infrastructure platforms on a highly scalable pay-per-use basis.
 They dynamically allocate cloud resources where they are needed most by using a layer of abstraction over classical servers while ensuring customer privacy.
 Many companies choose them because this way, they do not have to build data centers themselves.
-Additionally, the pay-per-use model is highly attractive as it gives companies the options to start and stop cloud services as they like in no time.
-In case of a deleted serviceno longer needed, the underlying infrastructure is used for other cloud resources paid for by other customers.
+Additionally, the pay-per-use model is highly attractive as it gives companies the option to start and stop cloud services as they like in no time.
+If a service is no longer needed, hyperscalers use the underlying infrastructure for other cloud resources paid for by other customers.
 
 #### Silicon
 
 AI models basically work on matrix multiplication.
 They rely on highly specialized microchips that enable parallel processing.
-Access to these highly demanded and therefore very expensive chips determines who can train and run the most advanced AI models.
+Access to these highly demanded and very expensive chips determines who can train and run the most advanced AI models.
 Equipped with huge cash flows, hyperscalers buy chips from companies like Nvidia or AMD.
 As Nvidia only designs chips, they are usually built by TSMC, a Taiwanese company that heavily relies on lithographic machines from ASML, a company from the Netherlands.
 At the heart of ASML's lithography machines lie laser systems manufactured by Trumpf and highly specialized mirrors manufactured by Zeiss.
@@ -90,17 +90,17 @@ Therefore, massive, multi-year construction investments are needed.
 In the end, data centers are just massive buildings that host hardware and make sure it runs safely.
 Those buildings need to be built.
 Equinix and Digital Realty are the major data center developers.
-They buy the land, secure the power permits and design the architecture.
+They buy the land, secure the power permits and design the data center architecture.
 Additionally, investment management firms like Blue Owl Capital and Pimco provide huge amounts of capital for building data centers.
 
 #### Energy
 
-Meta, part of MAG7, currently plans to build Hyperion, a data center for which they bought an area of roughly 14.8 km^2.
+Meta, part of MAG7, currently plans to build Hyperion, a data center for which they bought an area of roughly 14.8 km².
 The area will host not only data center buildings, but also cooling systems, power infrastructure, security buffer zones and more.
 Hyperion will draw up to 5 GW, the equivalent of roughly 3 million homes in that region.
 The energy required for data centers of this scale is so enormous that companies like Meta invest in the energy sector to ensure long-term power availability.
 In January 2026, Meta signed a deal to secure over 6.6 GW of nuclear power for their future data centers.
-The Hyperion facility will host three natural gas turbines and Meta has committed to adding 1.5 GW of new solar and wind energy to the region.
+The Hyperion facility will host three natural gas turbines and Meta has committed to adding 1.5 GW of new solar and wind energy in the region.
 Winners in this space are Siemens Energy and GE Vernova who provide gas turbines and grid infrastructure.
 
 ### The MAG7: The Magnificent Seven
@@ -144,4 +144,4 @@ I can only assure you that there will be crises in the future.
 
 While we might currently be in a financial bubble, we are definitely not in a technological bubble.
 AI is here to stay, and an economic downturn will only strengthen the capital markets in the long term by weeding out companies unable to weather the storm.
-Even after a financial crisis, AI will still be THE driver for productivity, efficiency and prosperity by enabling novel research methods, personalized education, advanced healthcare and much more.
+Even after a financial crisis, AI will still be the major driver for productivity, efficiency and prosperity by enabling novel research methods, personalized education, advanced healthcare and much more.
